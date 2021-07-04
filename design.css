@@ -1,0 +1,55 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-size: 29px;
+    margin: 0%;
+}
+span{
+     color: rgba(255, 187, 16, 0.986);
+}
+p{
+     width: 400px;
+     font-size: medium;
+}
+button{
+     border: darkgreen 2px solid;
+     border-radius: 4px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: 20px;
+     text-decoration: none;
+     text-align: center;
+     width: 140px;
+     height: 50px;
+     background-color: rgb(255, 142, 5);
+
+}
+section{
+     display: flex;
+    height: 800px;
+     
+}
+.top{
+     background-image: url(images/top-banner.png);
+     background-repeat: no-repeat;
+}
+.mahee{
+     width: 60%;
+     padding-left: 190px;
+     padding-top: 40px;
+}
+.div1{ 
+    width: 50%;
+    padding-top: 10px;
+    padding-left: 90px;
+}
+button{
+     text-decoration: none;
+     padding: 10px 30px;
+     border-radius: 5px;
+     background-image: linear-gradient(orange, tomato);
+     border-color: cadetblue;
+     padding-left: 0px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
