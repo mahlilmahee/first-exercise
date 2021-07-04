@@ -83,3 +83,14 @@ a{
       height: 40px;
       width: 300px;
 }
+#mmm{
+      width: 40%;
+      box-shadow: 10px 10px 30px gray;
+      margin: 5%;
+      padding: 20px;
+}
+#ablo{
+      background-image: url(images/exp-bg.png);
+      background-repeat: no-repeat;
+  
+}
