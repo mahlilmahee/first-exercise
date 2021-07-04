@@ -24,7 +24,8 @@ button{
 }
 section{
      display: flex;
-    height: 800px;
+     box-sizing: border-box;
+     padding: 10px;
      
 }
 .top{
@@ -32,7 +33,7 @@ section{
      background-repeat: no-repeat;
 }
 .mahee{
-     width: 60%;
+     width: 100%;
      padding-left: 190px;
      padding-top: 40px;
 }
@@ -48,8 +49,37 @@ button{
      background-image: linear-gradient(orange, tomato);
      border-color: cadetblue;
      padding-left: 0px;
+     width: 150px;
 }
 a{
     text-decoration: none;
     color: black;
+}
+.mahee{
+     width: 50%;
+}
+.divii{
+     
+    width:60%;
+
+}
+.mt{
+     width: 60%;
+     padding-left: 150px;
+}
+.dreambig{
+     padding-top: 40px;
+}
+#class{
+     background-image: url(images/dream-bg.png);
+     background-repeat: no-repeat;
+     background-position: right;
+    
+}
+.resume{
+      width: 2000px;
+}
+.xxx{ 
+      height: 40px;
+      width: 300px;
 }
